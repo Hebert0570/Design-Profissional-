@@ -1,0 +1,57 @@
+ATIVIDADE INTEGRADA A2: DESIGN PROFISSIONAL
+TEMA: Mapeamento Estratégico de Certificações para Carreira em TI
+ALUNO(S):
+1. Hebert Vinicius Almeida de Souza | 45665800
+2. Pedro Henrique Neves de Sousa | 45651981
+3. Luiz Henrique Pacheco dos Santo | 45663831
+4. Wesley Lopes Pereira | 46001441
+5. Gustavo Magalhães Silva | 45809038
+6. José Domingos | 45189030
+DATA DE ENTREGA: 30 de Setembro de 2025
+—--------------------------------------------------------------------------------------------------------------------
+Visão Geral do Projeto
+O site "Carreira TI", desenvolvido como projeto prático da disciplina Design
+Profissional, materializa um Mapeamento Estratégico de Certificações voltado ao
+Planejamento de Carreira e Aprendizado Contínuo. O objetivo é fornecer ao
+profissional de TI uma visão estruturada sobre as certificações mais relevantes,
+facilitando a identificação de um roteiro de formação. Para a curadoria e
+organização dos dados, a ferramenta de Inteligência Artificial (IA) Gemini foi
+utilizada para condensar informações complexas, formatar a tabela comparativa e
+garantir que todos os requisitos técnicos da atividade fossem respondidos com
+precisão e rigor.
+Justificativa da Escolha e Progressão de Carreira
+As seis certificações foram selecionadas por representarem o padrão da indústria e as
+áreas de maior demanda para 2025, alinhando-se diretamente às aptidões e interesses
+com as demandas do mercado. A estratégia de seleção garantiu a cobertura hierárquica
+das três esferas tecnológicas mais críticas, definindo um claro plano de carreira:
+● Cloud Computing (AWS SAA, GCP PCA, Azure AZ-104): A inclusão das três
+maiores plataformas (AWS, Google Cloud, Microsoft) oferece caminhos de
+Administração (AZ-104) até a Arquitetura Sênior (GCP PCA), o papel mais
+valorizado no segmento. A diversidade cobre desde o nível Associado
+(porta de entrada) até o nível Profissional.
+● Cibersegurança (CompTIA Security+, CISSP): Foi estabelecido um caminho
+de progressão, do conhecimento prático de Base (Security+) até a
+Liderança Estratégica (CISSP), que exige 5 anos de experiência e comprova
+proficiência em um dos papéis de maior remuneração global (Gestão de
+Risco e Governança).
+● Redes e Infraestrutura (Cisco CCNA): Valida as habilidades fundamentais
+em redes (roteamento e switching), consideradas a espinha dorsal de
+comunicação de qualquer ambiente de TI moderno, sendo um requisito
+base para muitas funções de Cloud e Segurança.
+Conexão com Aprendizado Contínuo
+
+
+O sistema de certificações é fundamental para o Aprendizado Contínuo devido ao
+seu ciclo obrigatório de validade. A maioria delas exige recertificação a cada 2 ou 3
+anos. Este mecanismo força o profissional a reavaliar seu conhecimento e aprender
+sobre novos serviços e melhores práticas (principalmente nas plataformas de
+Nuvem, que evoluem diariamente). Manter uma certificação ativa não é apenas
+uma prova de conhecimento atual, mas um selo de compromisso com a evolução
+tecnológica, o que impulsiona o profissional para papéis de maior responsabilidade
+e salários mais altos, cumprindo o objetivo de desenvolver competências técnicas
+relevantes ao longo do tempo.
+Referências de Pesquisa
+O conteúdo técnico foi baseado em relatórios de tendências do mercado de TI
+(2024/2025) de fontes como Gartner e Global Knowledge, além da documentação
+oficial dos provedores (AWS, Microsoft Learn, (ISC)², CompTIA e Cisco Learning
+Network).
