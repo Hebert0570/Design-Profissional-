@@ -1,4 +1,4 @@
-# Design Profissional: Organização e Portfólio (A1)
+# Design Profissional
 
 Este repositório serve como a base central para a organização e entrega da Avaliação A1 da disciplina de Design Profissional, focada em estabelecer uma presença digital e uma marca profissional coerente no mercado de TI.
 
